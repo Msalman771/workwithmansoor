@@ -41,8 +41,8 @@ header div#search{
 header div#search input#namefield{
     width: 200px;
     height: 20px;
-    border: 2px solid black;
-    border-radius: 5px;
+    border: 2px solid rgb(3, 164, 228) ;
+    border-radius: 15px;
     padding-left: 10px; 
 }
 header div#search input#namefield:hover{
@@ -51,7 +51,8 @@ header div#search input#namefield:hover{
 header div#search input#btn{
     width: 60px;
     height: 25px;
-    border: 2px solid black;
+    color: rgb(3, 164, 228);
+    border: 2px solid rgb(3, 164, 228);
     border-radius: 15px;
     background-color: white;
     margin-left: 5px;
